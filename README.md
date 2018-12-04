@@ -4,7 +4,7 @@ I want to start from the observations that are very clear for me.
 
 First, many things that were buzz words even at beginning of this year are reality now. The IoT is one of them. The others are: 
 - a blending of augmented reality and IoT;
-- streaming processing is getting traction with implementation of general computing engines like Spark, Flink, Storm, Samza;
+- streaming processing is getting traction with implementation of general computing engines like Kafka, Spark, Flink, Storm, Samza;
 - container orchestration frameworks like Kubernetes, Swarm, rtk created an execution environment that is similar to Amazon Cloud, but based on containers instead of VM;
 - new breed of operating systems like CoreOS created a new paradigm in IT, replacing application servers and frameworks that were thrive on them (Java EE, Spring, and even micro-services).
 
